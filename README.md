@@ -17,5 +17,5 @@ How to run the program
 Step-by-step bullets
 code blocks for commands
 ## Help
-//testing fetch 
+//testing fetch. dont work on terminal when i use git fetch, but it work when i do git push 
 Any advise for common problems or issues.
