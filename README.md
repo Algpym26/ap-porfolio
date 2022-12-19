@@ -1,14 +1,14 @@
 # AP-Porfolio
 Simple overview of use/purpose.
 
-## Description
+## Description (As a User)
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+## Getting Started ( I want to do Something)
 Dependencies
 Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 ex. Windows 10
-## Installing
+## Installing ( That I can realize a reward )
 How/where to download your program
 Any modifications needed to be made to files/folders
 Executing program
