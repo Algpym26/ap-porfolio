@@ -1,5 +1,5 @@
 .mainpage{
-  background-image: url("./assets/images/icelake.jpeg");
+  background-image: url("./assets/images/mariposa.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
@@ -7,9 +7,9 @@
   filter: grayscale(1);
 
 }
-
+ç
 .aboutpage{
-  background-image: url("./assets/images/icelake.jpeg");
+  background-image: url("./assets/images/mariposa.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
