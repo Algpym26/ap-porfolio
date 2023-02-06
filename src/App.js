@@ -9,7 +9,7 @@ function App() {
         mainpage.style.filter = 'grayscale(0)'
       },
 
-      2000,
+      3000,
     )
   }, [])
   return (
