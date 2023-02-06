@@ -12,6 +12,7 @@ function App() {
       3000,
     )
   }, [])
+  
   return (
     <div className="mainpage">
       <h1>Hello</h1>
