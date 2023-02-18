@@ -15,9 +15,7 @@ function App() {
   
   return (
     <div className="mainpage">
-      <h1>Hello</h1>
-      <h2> I Am ... Ana Palma!</h2>
-      <h3>Software Developer.</h3>
+
 
     </div>
   )
