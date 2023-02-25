@@ -17,9 +17,9 @@ function App() {
   return (
     <div className="mainpage">
 
-<marquee width="60%" direction="right" height="100px">
+<marquee width="70%" direction="left" height="100px">
     
-      Hello!!   I am ..... Ana Palma  Software Developer!.
+      <h1>Hello!!   I am ..... <em>Ana Palma!!</em> Software Developer!.</h1>
       </marquee>
 
       <Nav/>
