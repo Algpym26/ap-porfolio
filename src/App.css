@@ -1,15 +1,20 @@
 .mainpage{
-  background-image: url("./assets/images/icelake.jpeg");
+  background-image: url("./assets/images/rotonda.jpeg");
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   filter: grayscale(1);
+  display: flex;
+  justify-content: space-between;
+
 
 }
-ç
+.nav-bar{
+  
+}
 .aboutpage{
-  background-image: url("./assets/images/icelake.jpeg");
+  background-image: url("./assets/images/siluette.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
